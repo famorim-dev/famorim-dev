@@ -1,8 +1,10 @@
-#💻 Felipe Amorim
+# 💻 Felipe Amorim
 
 **`Desenvolvedor Back End`**
 
-
+Sou estudante de Sistemas de Informação e estou focado em me desenvolver como back-end.
+Curioso por natureza, gosto de aprender na prática e encarar novos desafios na área de tecnologia.
+Busco evoluir constantemente com projetos reais, explorando boas práticas e soluções eficientes.
 
 ---
 
