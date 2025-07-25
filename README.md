@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Felipe Amorim
+#💻 Felipe Amorim
 
 **`Desenvolvedor Back End`**
 
@@ -30,7 +30,7 @@
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
 <img 
     align="left" 
