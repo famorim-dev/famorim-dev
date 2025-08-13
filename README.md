@@ -28,14 +28,6 @@ Busco evoluir constantemente com projetos reais, explorando boas práticas e sol
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Django"
     title="Django" 
     width="30px" 
