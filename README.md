@@ -1,6 +1,6 @@
 # 💻 Felipe Amorim
 
-**`Desenvolvedor Back End`**
+**`Desenvolvedor Full Stack`**
 
 Sou estudante de Sistemas de Informação e estou focado em me desenvolver como back-end.
 Curioso por natureza, gosto de aprender na prática e encarar novos desafios na área de tecnologia.
