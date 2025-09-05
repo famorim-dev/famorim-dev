@@ -97,7 +97,7 @@ Busco evoluir constantemente com projetos reais, explorando boas práticas e sol
     title="Express"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
 />
 
 <br/>
