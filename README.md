@@ -1,6 +1,6 @@
 # 💻 Felipe Amorim
 
-**`Desenvolvedor Full Stack`**
+**`Desenvolvedor Backend & Android`**
 
 Olá, eu sou o Felipe!
 
