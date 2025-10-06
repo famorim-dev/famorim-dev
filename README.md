@@ -2,21 +2,36 @@
 
 **`Desenvolvedor Full Stack`**
 
-Sou estudante de Sistemas de Informação e estou focado em me desenvolver como back-end.
-Curioso por natureza, gosto de aprender na prática e encarar novos desafios na área de tecnologia.
-Busco evoluir constantemente com projetos reais, explorando boas práticas e soluções eficientes.
+Olá, eu sou o Felipe!
+
+Atualmente estou em transição para desenvolvimento Android com Kotlin/Java e Spring, buscando consolidar minha experiência em aplicativos móveis robustos e escaláveis. Tenho experiência prévia com Python, Node.js e React, além de bancos de dados relacionais (SQL), o que me permite criar soluções completas e automatizadas.
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
-    alt="React" 
-    title="React"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Kotlin" 
+    title="Kotlin"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 
 <img 
@@ -29,19 +44,19 @@ Busco evoluir constantemente com projetos reais, explorando boas práticas e sol
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -61,6 +76,14 @@ Busco evoluir constantemente com projetos reais, explorando boas práticas e sol
 />
 <img 
     align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Node.Js" 
     title="Node.Js"
     width="30px" 
@@ -69,11 +92,11 @@ Busco evoluir constantemente com projetos reais, explorando boas práticas e sol
 />
 <img 
     align="left" 
-    alt="Docker" 
-    title="Docker"
+    alt="Tailwind" 
+    title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 
 <br/>
