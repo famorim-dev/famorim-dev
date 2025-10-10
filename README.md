@@ -4,7 +4,7 @@
 
 Olá, eu sou o Felipe!
 
-Atualmente estou em transição para desenvolvimento Android com Kotlin/Java e Spring, buscando consolidar minha experiência em aplicativos móveis robustos e escaláveis. Tenho experiência prévia com Python, Node.js e React, além de bancos de dados relacionais (SQL), o que me permite criar soluções completas e automatizadas.
+Atualmente estou em transição para desenvolvimento Full Stack com foco em Java, Spring Boot e Angular, buscando consolidar minha experiência na criação de aplicações web robustas e escaláveis. Tenho experiência prévia com Python, Node.js e React, além de bancos de dados relacionais (SQL), o que me permite desenvolver soluções completas e automatizadas.
 
 ---
 
@@ -17,14 +17,7 @@ Atualmente estou em transição para desenvolvimento Android com Kotlin/Java e S
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
-<img 
-    align="left" 
-    alt="Kotlin" 
-    title="Kotlin"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Spring" 
