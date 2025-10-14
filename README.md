@@ -4,7 +4,7 @@
 
 Olá, eu sou o Felipe!
 
-Atualmente estou em transição para desenvolvimento Full Stack com foco em Java, Spring Boot e Angular, buscando consolidar minha experiência na criação de aplicações web robustas e escaláveis. Tenho experiência prévia com Python, Node.js e React, além de bancos de dados relacionais (SQL), o que me permite desenvolver soluções completas e automatizadas.
+Atualmente estou em transição para desenvolvimento de aplicações Java/Spring Boot e Android com Kotlin nativo, buscando consolidar minha experiência na criação de soluções robustas e escaláveis, tanto no backend quanto em aplicativos móveis. Tenho experiência prévia com Python, Node.js e bancos de dados relacionais (SQL), o que me permite desenvolver sistemas completos e eficientes, integrando backend e mobile de forma organizada e de qualidade.
 
 ---
 
