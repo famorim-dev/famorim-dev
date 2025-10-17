@@ -1,6 +1,6 @@
 # 💻 Felipe Amorim
 
-**`Desenvolvedor Backend & Android`**
+**`Desenvolvedor Java`**
 
 Olá, eu sou o Felipe!
 
