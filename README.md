@@ -4,7 +4,9 @@
 
 Olá, eu sou o Felipe!
 
-Atualmente estou em transição para desenvolvimento de aplicações Java/Spring Boot e Android com Kotlin nativo, buscando consolidar minha experiência na criação de soluções robustas e escaláveis, tanto no backend quanto em aplicativos móveis. Tenho experiência prévia com Python, Node.js e bancos de dados relacionais (SQL), o que me permite desenvolver sistemas completos e eficientes, integrando backend e mobile de forma organizada e de qualidade.
+Sou desenvolvedor focado em backend com Java e Spring Boot, criando aplicações robustas, escaláveis e bem estruturadas. Tenho interesse em arquitetura de software, boas práticas de código e integração com bancos de dados relacionais (SQL).
+
+Busco consolidar minha carreira como especialista em desenvolvimento backend Java, aplicando conceitos sólidos de engenharia de software, APIs REST e soluções de alta qualidade voltadas à performance e manutenibilidade.
 
 ---
 
