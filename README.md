@@ -1,12 +1,12 @@
 # 💻 Felipe Amorim
 
-**`Desenvolvedor Java`**
+**`Desenvolvedor full stack Node/React`**
 
 Olá, eu sou o Felipe!
 
-Sou desenvolvedor focado em backend com Java e Spring Boot, criando aplicações robustas, escaláveis e bem estruturadas. Tenho interesse em arquitetura de software, boas práticas de código e integração com bancos de dados relacionais (SQL).
+Sou desenvolvedor full stack, com foco em JavaScript, Node.js e React, criando aplicações completas, escaláveis e bem estruturadas. Tenho interesse em arquitetura de software, boas práticas de código e integração entre frontend e backend.
 
-Busco consolidar minha carreira como especialista em desenvolvimento backend Java, aplicando conceitos sólidos de engenharia de software, APIs REST e soluções de alta qualidade voltadas à performance e manutenibilidade.
+Busco consolidar minha carreira como desenvolvedor full stack, aplicando conceitos sólidos de engenharia de software, APIs REST e interfaces modernas voltadas à performance, usabilidade e manutenibilidade.
 
 ---
 
