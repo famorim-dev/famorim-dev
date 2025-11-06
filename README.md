@@ -4,7 +4,7 @@
 
 Olá, eu sou o Felipe!
 
-Sou desenvolvedor full stack, com foco em JavaScript, Node.js e React, criando aplicações completas, escaláveis e bem estruturadas. Tenho interesse em arquitetura de software, boas práticas de código e integração entre frontend e backend.
+Sou desenvolvedor full stack, com foco em TypeScript, Node.js e React, criando aplicações completas, escaláveis e bem estruturadas. Tenho interesse em arquitetura de software, boas práticas de código e conexão via Api REST entre frontend e backend.
 
 Busco consolidar minha carreira como desenvolvedor full stack, aplicando conceitos sólidos de engenharia de software, APIs REST e interfaces modernas voltadas à performance, usabilidade e manutenibilidade.
 
