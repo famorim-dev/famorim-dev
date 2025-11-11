@@ -1,79 +1,35 @@
 # 💻 Felipe Amorim
 
-**`Desenvolvedor full stack Node/React`**
+**`Desenvolvedor Back end Java`**
 
 Olá, eu sou o Felipe!
+Sou Desenvolvedor Back end com foco em java/Spring Boot criando aplicações completas, escaláveis e bem estruturadas. Tenho grande interesse em arquitetura de software, boas práticas de código (SOLID, Clean Code) e na integração entre frontend e backend por meio de APIs RESTful.
 
-Sou desenvolvedor full stack, com foco em TypeScript, Node.js e React, criando aplicações completas, escaláveis e bem estruturadas. Tenho interesse em arquitetura de software, boas práticas de código e conexão via Api REST entre frontend e backend.
+Tenho experiência no desenvolvimento de APIs e integrações, conexão com bancos de dados relacionais (SQL). Essa combinação fortalece minha capacidade de desenvolver soluções eficientes, integradas e de fácil manutenção.
 
-Busco consolidar minha carreira como desenvolvedor full stack, aplicando conceitos sólidos de engenharia de software, APIs REST e interfaces modernas voltadas à performance, usabilidade e manutenibilidade.
+Atualmente, estou me aprimorando em java/ Spring boot e bancos de dados, com o objetivo de me consolidar como especialista em desenvolvimento Back end java.
+
+Estou disponível para oportunidades como Desenvolvedor Web Júnior e aberto a novos desafios que ampliem meu aprendizado e impacto.
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
-    alt="TypeScript" 
-    title="TypeScript"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Spring Boot" 
+    title="Spring Boot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.Js" 
-    title="Node.Js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Express" 
-    title="Express"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" 
-/>
-<img 
-    align="left" 
-    alt="Sequelize" 
-    title="Sequelize"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Jest" 
-    title="Jest"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 
 <img 
